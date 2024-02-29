@@ -1,0 +1,10 @@
+.catalog {
+  padding: 20px 0;
+  display: grid;
+  grid-template-columns: repeat(4, 192px);
+  column-gap: 20px;
+  row-gap: 26px;
+  align-items: start;
+  justify-content: center;
+  grid-template-columns: repeat(2, 138px);
+}
